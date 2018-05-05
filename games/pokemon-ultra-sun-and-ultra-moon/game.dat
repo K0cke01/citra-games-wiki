@@ -1,0 +1,10 @@
+title = "Pokémon Ultra Sun and Ultra Moon"
+description = "Pokémon catching and training"
+needs_system_files = false
+needs_shared_font = false
+game_type = "dsi"
+
+[[releases]]
+title = "00040000001B5000"
+region = "eur"
+release_date = "2017-11-19"
